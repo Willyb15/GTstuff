@@ -1,7 +1,7 @@
 #Needs to happen every M,W,F before noon.
 # GTstuff
 ##Files are sent MWF and need to be uploaded before noon
-##Login sharecare.sharefile.com
+##Login secure.sharecare.sharefile.com
 ###dowload excel.csv file
 ####rename to InterventionCallCounts_09122016   (The DATE is the number)
 
