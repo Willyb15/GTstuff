@@ -35,9 +35,9 @@ becuase when you close previous .csv (DONT SAVE!!!) the values from vlookup will
 ##Go back to public.sharecare.com
 ##Export entries select a form
 ##PPS14 Questionaire
-##open up All_Surver_(the date)
 ##Select ALL
-##Created BY (User ID), Entry ID, Transaction id, Patment Amount, Patment Date, Payment Status, Post Id, User IP, Survey Total Score
+##DESELECT
+##Created BY (User ID), Entry ID, Transaction id, Payment Amount, Payment Date, Payment Status, Post Id, User IP, Survey Total Score
 start date is after 08/01
 ##click download and export file
 pps14-questionaure-2016-09-15
